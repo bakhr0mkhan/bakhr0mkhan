@@ -20,6 +20,8 @@
 - AWS
 ## Other
 - Git/Github
+- Data structures
+- Algorithms
 
 
 
