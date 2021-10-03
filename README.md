@@ -16,6 +16,7 @@
 - Expressjs
 ## Database/Cloud
 - MongoDB
+- MySQL
 - Firebase 
 - AWS
 ## Other
