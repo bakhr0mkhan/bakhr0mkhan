@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bakhr0mkhan
 - 👀 I’m interested in just creating new stunning technology stuff that serve people
-- 💞️ I’m looking to collaborate on MERN project
 - 📫 Almost on every social media my username is @bakhr0mkhan. (If you quickly wanna contact me pls just send DM on Telegram)
 # Tech Stack 
 - Javascript
