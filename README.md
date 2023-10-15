@@ -9,6 +9,7 @@
 - CSS
 - Bootstrap
 - React
+- React Native
 - Redux(Persist/Saga)
 ## Backend
 - Nodejs
@@ -18,8 +19,13 @@
 - MySQL
 - Firebase 
 - AWS
+## Testing
+- Jest
+- Chai
+- React testing library
 ## Other
 - Git/Github
+- Azure
 - Data structures
 - Algorithms
 
